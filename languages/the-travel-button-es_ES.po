@@ -1,0 +1,520 @@
+# Copyright (C) 2021 We Travel Hub, S.L.
+# This file is distributed under the same license as the The Travel Button plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: The Travel Button 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/the-travel-button\n"
+"Language-Team: EN <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-14T16:50:22+00:00\n"
+"PO-Revision-Date: 2021-04-23 16:47+0200\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: the-travel-button\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+
+# language ISO 639-1 for wetravelhub urls
+msgid "en"
+msgstr "es"
+
+#. Plugin Menu Name of the plugin
+#: admin/partials/about_wth.php:27
+msgid "The Travel Button"
+msgstr ""
+
+#. Plugin Name of the plugin
+#: admin/partials/main.php:63
+msgid "The Travel Button®"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/the-travel-button/"
+msgstr "https://es.wordpress.org/plugins/the-travel-button/"
+
+#. Description of the plugin
+msgid "Monetize your travel content with your very own travel search engine. Help your audience plan their trips with customizable travel buttons."
+msgstr "Monetiza tu contenido de viajes con tu propio buscador. Ayuda a tus visitantes a planificar sus viajes a través de botones de viaje personalizables."
+
+#. Author of the plugin
+msgid "We Travel Hub"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wetravelhub.com"
+msgstr ""
+
+#: admin/partials/about_wth.php:31
+msgid "About"
+msgstr "Acerca de"
+
+#: admin/partials/about_wth.php:32
+msgid "Copyright"
+msgstr "Copyright"
+
+#: admin/partials/about_wth.php:33
+msgid "License"
+msgstr "Licencia"
+
+#: admin/partials/about_wth.php:34
+msgid "Release notes"
+msgstr "Notas de versión"
+
+msgid "With our plugin for WordPress, you can easily customize and manage different travel buttons to use in your posts."
+msgstr "Con nuestro plugin para WordPress podrás gestionar fácilmente los diferentes botones de viajes que quieras usar en tus publicaciones."
+
+#: admin/partials/about_wth.php:67
+msgid "The Travel Button® helps you monetize your travel content effectively while giving your visitors access to a global tourism and travel-related services search engine. It is an elegant advertising solution, fully adaptable to your website's design, with customizable style and placement."
+msgstr "The Travel Button® te ayuda a monetizar tu contenido de viajes de forma eficaz, mientras permites a tus visitantes consultar un buscador global de servicios turísticos. Es una solución publicitaria elegante, que podrás adaptar al estilo de tu página web y colocar donde más te guste."
+
+#: admin/partials/about_wth.php:68
+msgid "It saves visitors time when, inspired by the content you have published about a destination, they want to find useful information to plan a trip. With a single click and without leaving your website."
+msgstr "Ahorra tiempo a cualquier visitante que, inspirado por el contenido que has publicado acerca de un destino, quiere buscar información para visitarlo. Todo con un solo clic y sin abandonar tu página web."
+
+#: admin/partials/buttons.php:45 admin/partials/new_button.php:43
+#: admin/partials/styles.php:44
+msgid "Untitled"
+msgstr "Nombre no especificado"
+
+#: admin/partials/buttons.php:70
+msgid "buttons"
+msgstr "botones"
+
+#: admin/partials/buttons.php:71 admin/partials/styles.php:61
+msgid "Page %1$d of %2$d"
+msgstr "Página %1$d de %2$d"
+
+#: admin/partials/buttons.php:74 admin/partials/styles.php:64
+msgid "search by id or name"
+msgstr "buscar por id o nombre"
+
+#: admin/partials/buttons.php:80 admin/partials/styles.php:70
+msgid "Id"
+msgstr "Id"
+
+#: admin/partials/buttons.php:81 admin/partials/new_button.php:70
+#: admin/partials/new_style.php:51 admin/partials/styles.php:71
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/partials/buttons.php:82
+msgid "shortcode"
+msgstr "shortcode"
+
+#: admin/partials/buttons.php:83 admin/partials/new_button.php:81
+msgid "Tracking code"
+msgstr "Tracking code"
+
+#: admin/partials/buttons.php:84 admin/partials/styles.php:72
+msgid "Preview"
+msgstr "Previsualización"
+
+#: admin/partials/buttons.php:85 admin/partials/styles.php:74
+msgid "Actions"
+msgstr "Acciones"
+
+#: admin/partials/buttons.php:95
+msgid "Not configured"
+msgstr "No configurado"
+
+#: admin/partials/buttons.php:98
+msgid "Configured"
+msgstr "Configurado"
+
+#: admin/partials/buttons.php:104 admin/partials/styles.php:88
+msgid "Clone"
+msgstr "Clonar"
+
+#: admin/partials/buttons.php:105 admin/partials/styles.php:89
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/partials/buttons.php:108 admin/partials/buttons.php:140
+#: admin/partials/styles.php:92 admin/partials/styles.php:125
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/partials/buttons.php:119 admin/partials/styles.php:104
+msgid "Previous"
+msgstr "Anterior"
+
+#: admin/partials/buttons.php:125 admin/partials/styles.php:110
+msgid "Next"
+msgstr "Siguiente"
+
+#: admin/partials/buttons.php:141 admin/partials/new_button.php:117
+#: admin/partials/new_style.php:126 admin/partials/styles.php:126
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/partials/buttons.php:144 admin/partials/styles.php:129
+msgid "Warning!"
+msgstr "¡Cuidado!"
+
+msgid "On button"
+msgstr "En botón"
+
+msgid "Default"
+msgstr "Por defecto"
+
+msgid "This operation cannot be undone. Are you sure you want to delete this item?"
+msgstr "Esta operación no se puede deshacer. ¿Realmente quieres borrar este elemento?"
+
+msgid "No tracking codes found"
+msgstr "No se han encontrado tracking codes"
+
+msgid "Separate multiple classes with spaces."
+msgstr "Separa múltiples clases con espacios."
+
+#: admin/partials/load-db-records.php:14
+msgid "created"
+msgstr "creado"
+
+#: admin/partials/load-db-records.php:16
+msgid "updated"
+msgstr "actualizado"
+
+#: admin/partials/load-db-records.php:24
+msgid "this item cannot be deleted"
+msgstr "este elemento no se puede eliminar"
+
+#: admin/partials/load-db-records.php:26
+msgid "deleted"
+msgstr "borrado"
+
+#: admin/partials/main.php:30
+msgid "Starting"
+msgstr "Empezando"
+
+#: admin/partials/main.php:36
+msgid "Buttons"
+msgstr "Botones"
+
+#: admin/partials/main.php:37
+msgid "Styles"
+msgstr "Estilos"
+
+#: admin/partials/main.php:41
+msgid "Settings"
+msgstr "Configuración"
+
+#: admin/partials/main.php:66
+msgid "New button"
+msgstr "Nuevo botón"
+
+#: admin/partials/main.php:69
+msgid "New style"
+msgstr "Nuevo estilo"
+
+#: admin/partials/main.php:87
+msgid "Help"
+msgstr "Ayuda"
+
+#: admin/partials/main.php:90
+msgid "About this plugin"
+msgstr "Acerca de este plugin"
+
+#: admin/partials/main.php:92
+msgid "Documentation & FAQs"
+msgstr "Documentación y FAQs"
+
+#: admin/partials/main.php:93
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+#: admin/partials/main.php:94
+msgid "Contact"
+msgstr "Contacto"
+
+#: admin/partials/main.php:95
+msgid "Share"
+msgstr "Comparte"
+
+#: admin/partials/new_button.php:33
+msgid "Button"
+msgstr "Botón"
+
+#: admin/partials/new_button.php:59 admin/partials/new_style.php:40
+#: admin/partials/preferences.php:55
+msgid "General"
+msgstr "General"
+
+#: admin/partials/new_button.php:60
+msgid "Add destinations"
+msgstr "Añade destinos"
+
+#: admin/partials/new_button.php:61
+msgid "Direct links"
+msgstr "Enlaces directos"
+
+#: admin/partials/new_button.php:61
+msgid "Own style"
+msgstr "Tu propio estilo"
+
+#: admin/partials/new_button.php:72 admin/partials/new_style.php:53
+msgid "enter a short descriptive name"
+msgstr "introduce un nombre descriptivo"
+
+#: admin/partials/new_button.php:75 admin/partials/new_style.php:56
+msgid "Additional information"
+msgstr "Información adicional"
+
+#: admin/partials/new_button.php:77 admin/partials/new_style.php:58
+msgid "enter additional information"
+msgstr "introduce información adicional"
+
+#: admin/partials/new_button.php:84 admin/partials/preferences.php:91
+msgid "Default tracking code"
+msgstr "Tracking code por defecto"
+
+#: admin/partials/new_button.php:90 admin/partials/new_style.php:29
+msgid "Style"
+msgstr "Estilo"
+
+#: admin/partials/new_button.php:118 admin/partials/new_style.php:127
+#: admin/partials/preferences.php:140
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/partials/new_style.php:41
+msgid "Customize"
+msgstr "Personalizar"
+
+#: admin/partials/new_style.php:42
+msgid "Predefined CSS classes"
+msgstr "Clases CSS predefinidas"
+
+#: admin/partials/new_style.php:61
+msgid "Additional CSS classes"
+msgstr "Clases CSS adicionales"
+
+#: admin/partials/new_style.php:72
+msgid "You can use these predefined CSS classes as additional CSS in your button's style configuration."
+msgstr "Puedes usar estas clases CSS predefinidas añadiéndolas en la configuración del estilo de tu botón."
+
+#: admin/partials/new_style.php:76
+msgid "Class"
+msgstr "Clase"
+
+#: admin/partials/new_style.php:77
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/partials/new_style.php:83
+msgid "Centers the button"
+msgstr "Centra el botón"
+
+#: admin/partials/new_style.php:87
+msgid "Floats the button to the left"
+msgstr "Mueve el botón a la izquierda"
+
+#: admin/partials/new_style.php:91
+msgid "Floats the button to the right"
+msgstr "Mueve el botón a la derecha"
+
+#: admin/partials/new_style.php:95
+msgid "Adds 20px top margin, if it is preceded by another element, and always 20px bottom margin"
+msgstr "Añade un margen superior de 20px, sólo si está precedido de otro elemento, y siempre un margen inferior de 20px"
+
+#: admin/partials/new_style.php:99
+msgid "Adds 20px top margin"
+msgstr "Añade un margen superior de 20px"
+
+#: admin/partials/new_style.php:103
+msgid "Adds 20px bottom margin"
+msgstr "Añade un margen inferior de 20px"
+
+#: admin/partials/new_style.php:107
+msgid "Adds 20px left margin"
+msgstr "Añade un margen izquierdo de 20px"
+
+#: admin/partials/new_style.php:111
+msgid "Adds 20px right margin"
+msgstr "Añade un margen derecho de 20px"
+
+#: admin/partials/preferences.php:30
+msgid "stored"
+msgstr "almacenado"
+
+#: admin/partials/preferences.php:34
+msgid "Editor"
+msgstr "Editor"
+
+#: admin/partials/preferences.php:35
+msgid "Author"
+msgstr "Autor"
+
+#: admin/partials/preferences.php:36
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: admin/partials/preferences.php:41
+msgid "Allow Travel Buttons to be displayed and added to pages and posts"
+msgstr "Permitir ver botones de viaje para añadirlos en páginas y entradas"
+
+#: admin/partials/preferences.php:42
+msgid "Allow Travel Buttons to be created and edited"
+msgstr "Permitir crear y editar botones"
+
+#: admin/partials/preferences.php:43
+msgid "Allow tracking code to be changed when creating or editing Travel Buttons"
+msgstr "Permitir cambiar el tracking code al crear o editar botones"
+
+#: admin/partials/preferences.php:44
+msgid "Allow delete Travel Buttons"
+msgstr "Permitir borrar botones"
+
+#: admin/partials/preferences.php:45
+msgid "Allow create and edit styles"
+msgstr "Permitir crear y editar estilos"
+
+#: admin/partials/preferences.php:46
+msgid "Allow delete styles"
+msgstr "Permitir borrar estilos"
+
+#: admin/partials/preferences.php:56
+msgid "Security"
+msgstr "Seguridad"
+
+#: admin/partials/preferences.php:66
+msgid "Please, load your We Travel Hub tracking codes."
+msgstr "Por favor, carga tus tracking codes de We Travel Hub."
+
+#: admin/partials/preferences.php:74
+msgid "Please, configure your default tracking code"
+msgstr "Por favor, configura tu tracking code"
+
+#: admin/partials/preferences.php:66
+msgid "We need to know your tracking code to keep track of transactions made by your visitors through The Travel Button® and make sure you earn your affiliate commissions."
+msgstr "Necesitamos conocer tu tracking code para hacer el seguimiento de las transacciones realizadas por tus visitantes a través de The Travel Button® y otorgarte las comisiones generadas."
+
+#: admin/partials/preferences.php:67 admin/partials/preferences.php:75
+msgid "Manage your account at We Travel Hub"
+msgstr "Gestiona tu cuenta en We Travel Hub"
+
+#: admin/partials/preferences.php:79
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/partials/preferences.php:83
+msgid "Enter your We Travel Hub account API Key and load your tracking codes"
+msgstr "Introduce el API Key de tu cuenta de We Travel Hub y carga tus tracking codes"
+
+#: admin/partials/preferences.php:86
+msgid "Load tracking codes"
+msgstr "Cargar tracking codes"
+
+#: admin/partials/preferences.php:94
+msgid "Tracking code is not configured"
+msgstr "Tracking code no configurado"
+
+#: admin/partials/preferences.php:100
+msgid "Use default tracking code on all Travel Buttons, otherwise the tracking code defined on each Travel button will be used"
+msgstr "Usar el tracking code por defecto en todos los botones, de lo contrario se usará el tracking code configurado en cada botón"
+
+#: admin/partials/preferences.php:103
+msgid "Hide Travel Buttons if the tracking code is not configured"
+msgstr "Ocultar botones si el tracking code no está configurado"
+
+#: admin/partials/preferences.php:106
+msgid "Items per page"
+msgstr "Elementos por página"
+
+#: admin/partials/preferences.php:119
+msgid "Permissions"
+msgstr "Permisos"
+
+#: admin/partials/starting.php:17
+msgid "let's get started! set up your first Travel Button"
+msgstr "¡empezamos! configura tu primer Travel Button"
+
+msgid "do you like it in this style?"
+msgstr "¿te gusta este estilo?"
+
+#: admin/partials/starting.php:19
+msgid "find your style"
+msgstr "crea tu estilo"
+
+#: admin/partials/starting.php:22
+msgid "you are almost done!"
+msgstr "¡casi has terminado!"
+
+#: admin/partials/starting.php:24
+msgid "Create your first Travel Button"
+msgstr "Crea tu primer Travel Button"
+
+#: admin/partials/starting.php:27
+msgid "you are not allowed to create Travel Button styles<br/>Please, contact the admin."
+msgstr "no tienes permisos para crear estilos<br/>Por favor, contacta con el admin."
+
+#: admin/partials/starting.php:30
+msgid "you are not allowed to create Travel Buttons<br/>Please, contact the admin."
+msgstr "no tienes permisos para crear botones<br/>Por favor, contacta con el admin."
+
+#: admin/partials/styles.php:60
+msgid "styles"
+msgstr "estilos"
+
+#: includes/class-wth-travel-button.php:228
+#: includes/class-wth-travel-button.php:233
+msgid "Oppps, something went wrong!"
+msgstr "¡Uppps, algo salió mal!"
+
+msgid "You can use these shortcodes to generate URLs for this Travel Button and use them with your own content as custom links, images, banners... for example:"
+msgstr "Puedes usar estos shortcodes para generar URLs relacionadas con este Travel Button y usarlas con tu propio contenido como links, imágenes, banners... por ejemplo:"
+
+msgid "You can use these shortcodes to make your html content, with your own style, launches the travel button when user click on it, for example:"
+msgstr "Puedes usar estos shortcodes para hacer que tu contenido html, con su propio estilo, inicie el botón de viajes cuando el usuario haga clic en él, por ejemplo:"
+
+msgid "All tourism services"
+msgstr "Todos los servicios turísticos"
+
+msgid "Accommodation"
+msgstr "Alojamiento"
+
+msgid "Transport"
+msgstr "Transporte"
+
+msgid "Restaurants"
+msgstr "Restaurantes"
+
+msgid "Activities"
+msgstr "Actividades"
+
+msgid "Transport specific"
+msgstr "Específico de transporte"
+
+msgid "Flights"
+msgstr "Vuelos"
+
+msgid "Bus"
+msgstr "Autobús"
+
+msgid "Train"
+msgstr "Tren"
+
+msgid "Car"
+msgstr "Coche"
+
+msgid "Vacation packages"
+msgstr "Paquetes vacacionales"
+
+msgid "Intuitive editor to customize your travel buttons"
+msgstr "Editor intuitivo para personalizar tus botones de viaje"
+
+msgid "Link travel buttons to locations"
+msgstr "Asócialos a diferentes lugares"
+
+msgid "Add travel buttons adapted to your website's style"
+msgstr "Añade botones de viaje adaptados al estilo de su sitio web"
+
+msgid "Don't waste time! Change travel button styles without re-publishing your posts"
+msgstr "¡No pierdas el tiempo! Cambia los estilos de los botones sin tener que re-publicar"
+
+msgid "Full screen mode editor"
+msgstr "Editor a pantalla completa"
+
+msgid "Disable resource preload (NOT RECOMMENDED). By default, resource preload is enabled to improve user experience"
+msgstr "Desactivar la pre-carga de recursos (NO RECOMENDADO). Por defecto, la pre-carga de recursos esta activada para mejorar la experiencia de usuario"

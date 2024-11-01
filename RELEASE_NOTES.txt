@@ -1,0 +1,29 @@
+
+Version 1.0.8
+ - Supports plugin preview on WordPress Playground
+
+Version 1.0.7
+ - Supports new locationAsOrigin parameter to allow use location as origin on transport services
+
+Version 1.0.6
+ - Supports selection of transport specific content in direct links and own styles
+
+Version 1.0.5
+ - Supports your own Travel Button style
+
+Version 1.0.4
+ - Supports resource preload to improve user experience
+
+Version 1.0.3
+ - Shadow style on button
+
+Version 1.0.2
+ - Minor improvements
+
+Version 1.0.1
+ - Fix WP 4.7+ plugin bootstrap file compatibility
+ - Set minimum supported WordPress version to 4.7
+ - Set minimum supported PHP version to 5.6
+
+Version 1.0.0
+ - Initial release

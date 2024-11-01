@@ -1,0 +1,52 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.wth-logo{
+	width:65px;
+}
+
+.wth-tb-scrollable-table-wrapper {
+	width:100%;
+	max-height: calc(100vh - 400px);
+}
+
+.wth-tb-scrollable-table-sticky-header {
+	position: sticky;
+	top:0;
+	z-index: 200;
+	background-color: #e6e6e6;
+}
+
+.wth-tb-align-center {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: initial !important;
+	display: flex !important;
+	justify-content: center !important;
+}
+
+.wth-fullscreen-toogle-button {
+	display: none;
+}
+
+.wth-fullscreen-toogle-button-enabled {
+	display: inline !important;
+	position: absolute !important;
+    margin-top: 10px !important;
+    right: 40px !important;
+}
+
+.wth-preview-custom-style {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: initial !important;
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center;
+	width: 4rem;
+    height: 4rem;
+    font-size: 0.8rem;
+    background-color: #BC242F;
+    border-radius: 70% 30% 70% 30% / 15% 19% 81% 85%;
+}

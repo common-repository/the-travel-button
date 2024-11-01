@@ -1,0 +1,53 @@
+
+/**
+ * You can use these predefined CSS styles or any other
+ * into your Travel Button Style configuration
+ */
+
+.wth-tb-align-center {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: initial !important;
+	display: flex !important;
+	justify-content: center !important;
+}
+
+.wth-tb-align-left {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: left !important;
+	display: flex !important;
+	justify-content: left !important;
+}
+
+.wth-tb-align-right {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: right !important;
+	display: grid !important;
+	justify-content: right !important;
+}
+
+* + .wth-tb-margin {
+	margin-top: 20px !important;
+}
+
+.wth-tb-margin {
+	margin-bottom: 20px;
+}
+
+.wth-tb-margin-top {
+	margin-top: 20px;
+}
+
+.wth-tb-margin-bottom {
+    margin-bottom: 20px;
+}
+
+.wth-tb-margin-left {
+ 	margin-left: 20px;
+}
+
+.wth-tb-margin-right {
+ 	margin-right: 20px;
+}
